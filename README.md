@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/amitsingh200609/DailyTasks/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/amitsingh200609/DailyTasks/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/amitsingh200609/DailyTasks/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/amitsingh200609/DailyTasks/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/amitsingh200609/DailyTasks/tree/master/1683-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/amitsingh200609/DailyTasks/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
