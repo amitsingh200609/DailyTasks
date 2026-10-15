@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/amitsingh200609/DailyTasks/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/amitsingh200609/DailyTasks/tree/master/0176-second-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/amitsingh200609/DailyTasks/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/amitsingh200609/DailyTasks/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/amitsingh200609/DailyTasks/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/amitsingh200609/DailyTasks/tree/master/0595-big-countries) |
