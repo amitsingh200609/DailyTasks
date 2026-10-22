@@ -39,9 +39,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amitsingh200609/DailyTasks/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/amitsingh200609/DailyTasks/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amitsingh200609/DailyTasks/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amitsingh200609/DailyTasks/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amitsingh200609/DailyTasks/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amitsingh200609/DailyTasks/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
